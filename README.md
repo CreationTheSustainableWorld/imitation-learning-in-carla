@@ -20,6 +20,7 @@ A CNN model is trained on expert driving data (BehaviorAgent), and the trained a
 
 [![Watch the video](https://img.youtube.com/vi/w7Hh2AnSmRg/0.jpg)](https://youtube.com/shorts/w7Hh2AnSmRg)
 
+📁 Saved Video: `logs/output_video.avi`
 
 ---
 
