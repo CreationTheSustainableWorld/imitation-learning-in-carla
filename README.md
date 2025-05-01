@@ -18,6 +18,8 @@ A CNN model is trained on expert driving data (BehaviorAgent), and the trained a
 
 ## 🎥 Inference Demo (CARLA)
 
+[YouTube動画のサムネイル画像（クリック可能）]
+
 [![Watch the video](https://img.youtube.com/vi/w7Hh2AnSmRg/0.jpg)](https://youtube.com/shorts/w7Hh2AnSmRg)
 
 📁 Saved Video: `logs/output_video.avi`
