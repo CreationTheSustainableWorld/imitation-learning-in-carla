@@ -41,3 +41,16 @@ A CNN model is trained on expert driving data (BehaviorAgent), and the trained a
 | `logs/`                     | Output logs and generated video            |
 | `saved_data/`               | Collected dataset (images & actions)       |
 
+## 🚀 Try It Yourself
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Train the model (optional)
+python src/train_imitation1.py
+
+# Run inference and save video
+python src/infer_imitation_enhanced.py
+python src/make_video.py
+
