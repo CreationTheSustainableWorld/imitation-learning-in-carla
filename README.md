@@ -28,4 +28,16 @@ A CNN model is trained on expert driving data (BehaviorAgent), and the trained a
 ---
 
 ## 📦 Project Structure
+## 🔧 File Guide
+
+| File / Folder                | Description                                |
+|-----------------------------|--------------------------------------------|
+| `models/`                   | Trained models (enhanced & baseline)       |
+| `src/train_imitation1.py`   | Training script for imitation learning     |
+| `src/record_data1.py`       | Collects expert driving data from CARLA    |
+| `src/infer_imitation*.py`   | Different inference variants               |
+| `src/make_video.py`         | Converts inference images into video       |
+| `modules/enhanced_model.py` | CNN model definition (EnhancedCNN)         |
+| `logs/`                     | Output logs and generated video            |
+| `saved_data/`               | Collected dataset (images & actions)       |
 
